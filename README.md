@@ -1,2 +1,4 @@
 # ui
-A frequently maintained UI/UX repository for Kathmandu Living Labs. 
+An ocassionally curated UI/UX repository. 
+
+klltech.
