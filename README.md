@@ -1,7 +1,7 @@
 # ui
 An ocassionally curated UI/UX repository. 
 
-The idea behind this repository is to bring together UI related resources that can serve as a starting point for fellow UI designers. We will be constantly experimenting in the way we categorize resources. 
+> The idea behind this repository is to bring together UI related resources that can serve as a starting point for fellow UI designers. We will be constantly experimenting in the way we categorize resources. 
 
 Here are some recsources that we have found to be interesting, useful or both in the past:
 
